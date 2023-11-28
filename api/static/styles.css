@@ -1,0 +1,53 @@
+html body {
+    width: 100%;
+    height: 100%;
+}
+
+.container_fluid {
+    width: 100vw;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.col-lg-2 {
+    height: 100%;
+}
+
+.col-lg-2 > a {
+    color: black;
+}
+
+.col-lg-2 > a:hover {
+    text-decoration: none;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.poster {
+    opacity: .7;
+}
+
+.grid-parent {
+  display: grid;
+  justify-items: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100% !important;
+}
+
+#poster {
+    width: auto;
+    height: 60%;
+}
+
+.pick-grid-child {
+    height: 100%;
+}
