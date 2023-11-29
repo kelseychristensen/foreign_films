@@ -1,0 +1,752 @@
+[
+    {
+        "movie": "Shoeshine",
+        "year": "1946",
+        "oscars_year": "20th",
+        "tmdb_id": 244687,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/sAmNpAnPF2jZCi7Vm5BjQdbJqZB.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Monsieur Vincent",
+        "year": "1947",
+        "oscars_year": "21st",
+        "tmdb_id": 43460,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/6NpfFmqbDT0t6wIsju9X9KOMNW3.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Bicycle Thieves",
+        "year": "1948",
+        "oscars_year": "22nd",
+        "tmdb_id": 5156,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "The Walls of Malapaga",
+        "year": "1950",
+        "oscars_year": "23rd",
+        "tmdb_id": 65718,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/dEoqM0RxSnlTUyrnmFHfNdbZduB.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Rashomon",
+        "year": "1950",
+        "oscars_year": "24th",
+        "tmdb_id": 548,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+        "present_day_countries": "Japan",
+        "submitting_countries": "Japan"
+    },
+    {
+        "movie": "Forbidden Games",
+        "year": "1952",
+        "oscars_year": "25th",
+        "tmdb_id": 5000,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/nby91GNVXQAv1NmKvqlpEEdhcMQ.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Gate of Hell",
+        "year": "1953",
+        "oscars_year": "26th",
+        "tmdb_id": 43349,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/6ceVYhhcIgEauUKdrYoIUWyAqfy.jpg",
+        "present_day_countries": "Japan",
+        "submitting_countries": "Japan"
+    },
+    {
+        "movie": "Samurai I: Musashi Miyamoto",
+        "year": "1954",
+        "oscars_year": "27th",
+        "tmdb_id": 31372,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/3kDRRF7WJeJ4YgnJYwk175KcRlZ.jpg",
+        "present_day_countries": "Japan",
+        "submitting_countries": "Japan"
+    },
+    {
+        "movie": "La Strada",
+        "year": "1954",
+        "oscars_year": "28th",
+        "tmdb_id": 405,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/xyisVfPrNybDieMp1nbCv6iBtdV.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Nights of Cabiria",
+        "year": "1957",
+        "oscars_year": "29th",
+        "tmdb_id": 19426,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Mon Oncle",
+        "year": "1958",
+        "oscars_year": "30th",
+        "tmdb_id": 427,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/wH6RyPiXFy8INLbViVkchLVOmBc.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Black Orpheus",
+        "year": "1959",
+        "oscars_year": "31st",
+        "tmdb_id": 40423,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/fJWzdNRnfjcJuaZiKqaSURFV6Lg.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "The Virgin Spring",
+        "year": "1960",
+        "oscars_year": "32nd",
+        "tmdb_id": 11656,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+        "present_day_countries": "Sweden",
+        "submitting_countries": "Sweden"
+    },
+    {
+        "movie": "Through a Glass Darkly",
+        "year": "1961",
+        "oscars_year": "33rd",
+        "tmdb_id": 11602,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
+        "present_day_countries": "Sweden",
+        "submitting_countries": "Sweden"
+    },
+    {
+        "movie": "Sundays and Cybele",
+        "year": "1962",
+        "oscars_year": "34th",
+        "tmdb_id": 43001,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/9L5DtYYlO3yrg2qtTCxROLnLl2V.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "8\u00bd",
+        "year": "1963",
+        "oscars_year": "35th",
+        "tmdb_id": 422,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/uFkdfTgHdp9xbpJwCY0cneVpXa7.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Yesterday, Today and Tomorrow",
+        "year": "1963",
+        "oscars_year": "36th",
+        "tmdb_id": 42801,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/dTYi1VK6ROM9tBiyIijFTHjuRnL.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "The Shop on Main Street",
+        "year": "1965",
+        "oscars_year": "37th",
+        "tmdb_id": 25905,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/Y1wX45uShUJVPJzlOyFFfEFVRH.jpg",
+        "present_day_countries": "Czechia",
+        "submitting_countries": "Czechoslovakia"
+    },
+    {
+        "movie": "A Man and a Woman",
+        "year": "1966",
+        "oscars_year": "38th",
+        "tmdb_id": 42726,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/qly34Guu4FX8up8ZwQjxwPiDKfr.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Closely Watched Trains",
+        "year": "1966",
+        "oscars_year": "39th",
+        "tmdb_id": 789,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/1FMBXil0P8Xyl1KRWbXbUGn6JCC.jpg",
+        "present_day_countries": "Czechia",
+        "submitting_countries": "Czechoslovakia"
+    },
+    {
+        "movie": "War and Peace",
+        "year": "1966",
+        "oscars_year": "40th",
+        "tmdb_id": 11706,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/riSJMtJ0q3Jn3nyQtzHXETeVyvR.jpg",
+        "present_day_countries": "Russia",
+        "submitting_countries": "U.S.S.R"
+    },
+    {
+        "movie": "Z",
+        "year": "1969",
+        "oscars_year": "41st",
+        "tmdb_id": 2721,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+        "present_day_countries": "Algeria",
+        "submitting_countries": "Algeria"
+    },
+    {
+        "movie": "Investigation of a Citizen Above Suspicion",
+        "year": "1970",
+        "oscars_year": "42nd",
+        "tmdb_id": 26451,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "The Garden of the Finzi-Continis",
+        "year": "1970",
+        "oscars_year": "43rd",
+        "tmdb_id": 4789,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/1X9kYcsKvoI3jwINGYT3psebxgN.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "The Discreet Charm of the Bourgeoisie",
+        "year": "1972",
+        "oscars_year": "44th",
+        "tmdb_id": 4593,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Day for Night",
+        "year": "1973",
+        "oscars_year": "45th",
+        "tmdb_id": 1675,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/s8TrKd8fNS5lfcnARaWMFUGjnL9.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Amarcord",
+        "year": "1973",
+        "oscars_year": "46th",
+        "tmdb_id": 7857,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/s6e5B6ty6xjLUjCgephOVjnpFnR.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Dersu Uzala",
+        "year": "1975",
+        "oscars_year": "47th",
+        "tmdb_id": 9764,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/bIOrDQ3Gg68k3qJAnRU7nIZr0BW.jpg",
+        "present_day_countries": "Russia",
+        "submitting_countries": "U.S.S.R"
+    },
+    {
+        "movie": "Black and White in Color",
+        "year": "1976",
+        "oscars_year": "48th",
+        "tmdb_id": 42238,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/8G86Ow4Qcm7FEcHsJoR3pFIBCaj.jpg",
+        "present_day_countries": "Cote D'Ivoire",
+        "submitting_countries": "Cote D'Ivoire"
+    },
+    {
+        "movie": "Madame Rosa",
+        "year": "1977",
+        "oscars_year": "49th",
+        "tmdb_id": 42223,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/9LtJbMdE9rhJ1xw0W3yT41EU9Ia.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Get Out Your Handkerchiefs",
+        "year": "1978",
+        "oscars_year": "50th",
+        "tmdb_id": 4267,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/4Wn3vrZJ4aLItHmdzZqC8BRmZht.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "The Tin Drum",
+        "year": "1979",
+        "oscars_year": "51st",
+        "tmdb_id": 659,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/b4zV75WQL68XcKRYdliCmTk5Jwc.jpg",
+        "present_day_countries": "Germany",
+        "submitting_countries": "West Germany"
+    },
+    {
+        "movie": "Moscow Does Not Believe in Tears",
+        "year": "1980",
+        "oscars_year": "52nd",
+        "tmdb_id": 21028,
+        "seen": "True",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/m6nWRLCaKsGErs7x8rDj9XuTVEG.jpg",
+        "present_day_countries": "Russia",
+        "submitting_countries": "U.S.S.R"
+    },
+    {
+        "movie": "Mephisto",
+        "year": "1981",
+        "oscars_year": "53rd",
+        "tmdb_id": 11911,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/SNJoUTU8PSxQlj3RkrwYGOQPyj.jpg",
+        "present_day_countries": "Hungary",
+        "submitting_countries": "Hungary"
+    },
+    {
+        "movie": "To Begin Again",
+        "year": "1982",
+        "oscars_year": "54th",
+        "tmdb_id": 81346,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/v1KY4B6lEyos8Zh28hmr2NKNPMp.jpg",
+        "present_day_countries": "Spain",
+        "submitting_countries": "Spain"
+    },
+    {
+        "movie": "Fanny and Alexander",
+        "year": "1982",
+        "oscars_year": "55th",
+        "tmdb_id": 5961,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg",
+        "present_day_countries": "Sweden",
+        "submitting_countries": "Sweden"
+    },
+    {
+        "movie": "Dangerous Moves",
+        "year": "1984",
+        "oscars_year": "56th",
+        "tmdb_id": 46088,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/erbO9GYdVc7ska0fpzQ8qqLrgC6.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "The Official Story",
+        "year": "1985",
+        "oscars_year": "57th",
+        "tmdb_id": 29263,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/kkeUKaETggOrR0eW9nzPOIoZkZH.jpg",
+        "present_day_countries": "Argentina",
+        "submitting_countries": "Argentina"
+    },
+    {
+        "movie": "The Assault",
+        "year": "1986",
+        "oscars_year": "58th",
+        "tmdb_id": 295237,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/54PNm7cEMxJMn1TUsjGy4B4oyud.jpg",
+        "present_day_countries": "Netherlands",
+        "submitting_countries": "Netherlands"
+    },
+    {
+        "movie": "Babette's Feast",
+        "year": "1987",
+        "oscars_year": "59th",
+        "tmdb_id": 11832,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/3ibptSbnAHd0SUBnOKapNZQBpCl.jpg",
+        "present_day_countries": "Denmark",
+        "submitting_countries": "Denmark"
+    },
+    {
+        "movie": "Pelle the Conqueror",
+        "year": "1987",
+        "oscars_year": "60th",
+        "tmdb_id": 11174,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/oSsu4khg459yTR1sw4qjEC4LO5J.jpg",
+        "present_day_countries": "Denmark",
+        "submitting_countries": "Denmark"
+    },
+    {
+        "movie": "Cinema Paradiso",
+        "year": "1988",
+        "oscars_year": "61st",
+        "tmdb_id": 11216,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Journey of Hope",
+        "year": "1990",
+        "oscars_year": "62nd",
+        "tmdb_id": 41834,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/dbNpWp7sGGIN2Qk8v10oxvNKFfq.jpg",
+        "present_day_countries": "Switzerland",
+        "submitting_countries": "Switzerland"
+    },
+    {
+        "movie": "Mediterraneo",
+        "year": "1991",
+        "oscars_year": "63rd",
+        "tmdb_id": 38251,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/omFU47TZSR7xAAZcDHKM48SmVwe.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Indochine",
+        "year": "1992",
+        "oscars_year": "64th",
+        "tmdb_id": 2731,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/sAemRfr6mOSwtQ76e4yUQVImo8B.jpg",
+        "present_day_countries": "France",
+        "submitting_countries": "France"
+    },
+    {
+        "movie": "Belle \u00c9poque",
+        "year": "1992",
+        "oscars_year": "65th",
+        "tmdb_id": 2470,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/2pb7i9pI6wMH5dlyjbVTXdfSKun.jpg",
+        "present_day_countries": "Spain",
+        "submitting_countries": "Spain"
+    },
+    {
+        "movie": "Burnt by the Sun",
+        "year": "1994",
+        "oscars_year": "66th",
+        "tmdb_id": 50797,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/4zsq30Zj9iAeqejEkkmclL7VnwV.jpg",
+        "present_day_countries": "Russia",
+        "submitting_countries": "Russia"
+    },
+    {
+        "movie": "Antonia's Line",
+        "year": "1995",
+        "oscars_year": "67th",
+        "tmdb_id": 880,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/nUCVi6bBIL7LGC61nYaCqikAhIA.jpg",
+        "present_day_countries": "Netherlands",
+        "submitting_countries": "Netherlands"
+    },
+    {
+        "movie": "Kolya",
+        "year": "1996",
+        "oscars_year": "68th",
+        "tmdb_id": 784,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/fB0cGiEOngfsfyDHXIpFOmEwFgi.jpg",
+        "present_day_countries": "Czechia",
+        "submitting_countries": "Czechia"
+    },
+    {
+        "movie": "Character",
+        "year": "1997",
+        "oscars_year": "69th",
+        "tmdb_id": 655068,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/lybq4SPAqYo753fnLkAL5GnZOVc.jpg",
+        "present_day_countries": "Netherlands",
+        "submitting_countries": "Netherlands"
+    },
+    {
+        "movie": "Life Is Beautiful",
+        "year": "1997",
+        "oscars_year": "70th",
+        "tmdb_id": 637,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "All About My Mother",
+        "year": "1999",
+        "oscars_year": "71st",
+        "tmdb_id": 99,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+        "present_day_countries": "Spain",
+        "submitting_countries": "Spain"
+    },
+    {
+        "movie": "Crouching Tiger, Hidden Dragon",
+        "year": "2000",
+        "oscars_year": "72nd",
+        "tmdb_id": 146,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+        "present_day_countries": "Taiwan",
+        "submitting_countries": "Taiwan"
+    },
+    {
+        "movie": "No Man's Land",
+        "year": "2001",
+        "oscars_year": "73rd",
+        "tmdb_id": 34379,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/4e31HPK4Rx3AvnAQhJDTpCqoESQ.jpg",
+        "present_day_countries": "Bosnia & Herzegovina",
+        "submitting_countries": "Bosnia & Herzegovina"
+    },
+    {
+        "movie": "Nowhere in Africa",
+        "year": "2001",
+        "oscars_year": "74th",
+        "tmdb_id": 1591,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/2ED1GaTKhHielGYa1giBsxfoacp.jpg",
+        "present_day_countries": "Germany",
+        "submitting_countries": "Germany"
+    },
+    {
+        "movie": "The Barbarian Invasions",
+        "year": "2003",
+        "oscars_year": "75th",
+        "tmdb_id": 11042,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/ekmFbyMgm3SPklSlDUW1wZ33yMP.jpg",
+        "present_day_countries": "Canada",
+        "submitting_countries": "Canada"
+    },
+    {
+        "movie": "The Sea Inside",
+        "year": "2004",
+        "oscars_year": "76th",
+        "tmdb_id": 1913,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/mQW1JJKCUg02cmWBzr9JFu9vM1V.jpg",
+        "present_day_countries": "Spain",
+        "submitting_countries": "Spain"
+    },
+    {
+        "movie": "Tsotsi",
+        "year": "2005",
+        "oscars_year": "77th",
+        "tmdb_id": 868,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/fvPGF7NYuZJACYVRAAF3FXicVf0.jpg",
+        "present_day_countries": "South Africa",
+        "submitting_countries": "South Africa"
+    },
+    {
+        "movie": "The Lives of Others",
+        "year": "2006",
+        "oscars_year": "78th",
+        "tmdb_id": 582,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+        "present_day_countries": "Germany",
+        "submitting_countries": "Germany"
+    },
+    {
+        "movie": "The Counterfeiters",
+        "year": "2007",
+        "oscars_year": "79th",
+        "tmdb_id": 246777,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/4RdSIc5pNtS08YtfiVAqOKmR7ux.jpg",
+        "present_day_countries": "Austria",
+        "submitting_countries": "Austria"
+    },
+    {
+        "movie": "Departures",
+        "year": "2008",
+        "oscars_year": "80th",
+        "tmdb_id": 1155752,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/d1XrFc3JQaNpZktoxIDft7iaNiT.jpg",
+        "present_day_countries": "Japan",
+        "submitting_countries": "Japan"
+    },
+    {
+        "movie": "The Secret in Their Eyes",
+        "year": "2009",
+        "oscars_year": "81st",
+        "tmdb_id": 25376,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/dkeAwfZzwL3WvToydE3CXiY80E0.jpg",
+        "present_day_countries": "Argentina",
+        "submitting_countries": "Argentina"
+    },
+    {
+        "movie": "In a Better World",
+        "year": "2010",
+        "oscars_year": "82nd",
+        "tmdb_id": 44716,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/dJpPpgf2z5lNw6xVxvfWm0lexNH.jpg",
+        "present_day_countries": "Denmark",
+        "submitting_countries": "Denmark"
+    },
+    {
+        "movie": "A Separation",
+        "year": "2011",
+        "oscars_year": "83rd",
+        "tmdb_id": 703731,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/fmngHGvRYC9wT3nEFOcVsXGp9pH.jpg",
+        "present_day_countries": "Iran",
+        "submitting_countries": "Iran"
+    },
+    {
+        "movie": "Amour",
+        "year": "2012",
+        "oscars_year": "84th",
+        "tmdb_id": 86837,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+        "present_day_countries": "Austria",
+        "submitting_countries": "Austria"
+    },
+    {
+        "movie": "The Great Beauty",
+        "year": "2013",
+        "oscars_year": "85th",
+        "tmdb_id": 179144,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg",
+        "present_day_countries": "Italy",
+        "submitting_countries": "Italy"
+    },
+    {
+        "movie": "Ida",
+        "year": "2013",
+        "oscars_year": "86th",
+        "tmdb_id": 209274,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/rye5v1w3cXz5OrgAoN9OuXdQ1aW.jpg",
+        "present_day_countries": "Poland",
+        "submitting_countries": "Poland"
+    },
+    {
+        "movie": "Son of Saul",
+        "year": "2015",
+        "oscars_year": "87th",
+        "tmdb_id": 336050,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg",
+        "present_day_countries": "Hungary",
+        "submitting_countries": "Hungary"
+    },
+    {
+        "movie": "The Salesman",
+        "year": "2016",
+        "oscars_year": "88th",
+        "tmdb_id": 903004,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/aQ0LCIFau42jKZW0qk1ioNFyswo.jpg",
+        "present_day_countries": "Iran",
+        "submitting_countries": "Iran"
+    },
+    {
+        "movie": "A Fantastic Woman",
+        "year": "2017",
+        "oscars_year": "89th",
+        "tmdb_id": 429191,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/x2yNruMR8bAJOIQ3wd7HR9qWjW3.jpg",
+        "present_day_countries": "Chile",
+        "submitting_countries": "Chile"
+    },
+    {
+        "movie": "Roma",
+        "year": "2018",
+        "oscars_year": "90th",
+        "tmdb_id": 11035,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/rqK75R3tTz2iWU0AQ6tLz3KMOU1.jpg",
+        "present_day_countries": "Mexico",
+        "submitting_countries": "Mexico"
+    },
+    {
+        "movie": "Parasite",
+        "year": "2019",
+        "oscars_year": "91st",
+        "tmdb_id": 48311,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/6EM7Jm3veKSW9ELMajSSxslYWDa.jpg",
+        "present_day_countries": "South Korea",
+        "submitting_countries": "South Korea"
+    },
+    {
+        "movie": "Another Round",
+        "year": "2020",
+        "oscars_year": "92nd",
+        "tmdb_id": 580175,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+        "present_day_countries": "Denmark",
+        "submitting_countries": "Denmark"
+    },
+    {
+        "movie": "Drive My Car",
+        "year": "2021",
+        "oscars_year": "93rd",
+        "tmdb_id": 758866,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg",
+        "present_day_countries": "Japan",
+        "submitting_countries": "Japan"
+    },
+    {
+        "movie": "All Quiet on the Western Front",
+        "year": "2022",
+        "oscars_year": "94th",
+        "tmdb_id": 49046,
+        "seen": "False",
+        "poster_url": "https://www.themoviedb.org/t/p/w440_and_h660_face/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+        "present_day_countries": "Germany",
+        "submitting_countries": "Germany"
+    }
+]
