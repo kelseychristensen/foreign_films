@@ -1,51 +1,44 @@
 import os
 from flask import Flask, render_template, request
 from flask_bootstrap import Bootstrap
-from flask_sqlalchemy import SQLAlchemy
 import random
+import json
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.environ["SECRET_KEY"]
 Bootstrap(app)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///movies.db'
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-db = SQLAlchemy(app)
-
-
-params = {"api_key": os.environ["API_KEY"]}
-
-class Movie(db.Model):
-    __tablename__ = "movies"
-    id = db.Column(db.Integer, primary_key=True)
-    movie = db.Column(db.String)
-    year = db.Column(db.Integer)
-    seen = db.Column(db.Boolean)
-    poster_url = db.Column(db.String)
+path = 'api/static/movies.json'
 
 
 @app.route("/", methods=["GET", "POST"])
 def home():
-    movies = Movie.query.all()
+    with open(path, 'r') as file:
+        movies = json.load(file)
     return render_template('index.html', movies=movies)
 
 
 @app.route('/pick', methods=["GET", "POST"])
 def pick():
-    unseen_movies = db.session.query(Movie).filter_by(seen=False).all()
+    with open(path, 'r') as file:
+        movies = json.load(file)
+    unseen_movies = [movie for movie in movies if movie["seen"]=="False"]
     choice = random.choice(unseen_movies)
     return render_template('picker.html', movie=choice)
 
 @app.route("/mark_watched/<item_id>", methods=["GET", "POST"])
 def mark_watched(item_id):
-    item_to_complete = db.session.query(Movie).get(item_id)
+    with open(path, 'r') as file:
+        movies = json.load(file)
+    item_to_complete = movies[int(item_id)]
     if request.method == 'POST':
-        item_to_complete.seen = 1
-        db.session.commit()
-        movies = db.session.query(Movie).all()
+        with open(path, 'r') as file:
+            movies = json.load(file)
+        movies[item_id]['seen'] = "True"
+        with open(path, 'w') as file:
+            json.dump(movies, file, indent=4)
         return render_template('index.html', movies=movies)
-    return render_template('mark_watched.html', movie=item_to_complete)
+    return render_template('mark_watched.html', movie=item_to_complete, item_id=item_id)
 
 
 if __name__ == '__main__':
