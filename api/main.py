@@ -33,17 +33,17 @@ def home():
 
 @app.route('/pick', methods=["GET", "POST"])
 def pick():
-    unseen_movies = Movie.query.filter_by(seen=False).all()
+    unseen_movies = db.session.query(Movie).filter_by(seen=False).all()
     choice = random.choice(unseen_movies)
     return render_template('picker.html', movie=choice)
 
 @app.route("/mark_watched/<item_id>", methods=["GET", "POST"])
 def mark_watched(item_id):
-    item_to_complete = Movie.query.get(item_id)
+    item_to_complete = db.session.query(Movie).get(item_id)
     if request.method == 'POST':
         item_to_complete.seen = 1
         db.session.commit()
-        movies = Movie.query.all()
+        movies = db.session.query(Movie).all()
         return render_template('index.html', movies=movies)
     return render_template('mark_watched.html', movie=item_to_complete)
 
