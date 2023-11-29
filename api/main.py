@@ -34,7 +34,7 @@ def mark_watched(item_id):
     if request.method == 'POST':
         with open(path, 'r') as file:
             movies = json.load(file)
-        movies[item_id]['seen'] = "True"
+        movies[int(item_id)]['seen'] = "True"
         with open(path, 'w') as file:
             json.dump(movies, file, indent=4)
         return render_template('index.html', movies=movies)
