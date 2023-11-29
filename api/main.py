@@ -14,8 +14,6 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
 
-params = {"api_key": os.environ["API_KEY"]}
-
 class Movie(db.Model):
     __tablename__ = "movies"
     id = db.Column(db.Integer, primary_key=True)
@@ -27,7 +25,7 @@ class Movie(db.Model):
 
 @app.route("/", methods=["GET", "POST"])
 def home():
-    movies = Movie.query.all()
+    movies = db.session.query(Movie).all()
     return render_template('index.html', movies=movies)
 
 
