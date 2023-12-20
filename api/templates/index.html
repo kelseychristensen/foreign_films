@@ -21,8 +21,8 @@
 {% for item in movies %}
 
 <div id="unseen_movie_bin" class="col-lg-2">
-{% if item.seen == "False" %}
-    <a href="{{ url_for('mark_watched', item_id=movies.index(item)) }}">
+{% if item.seen == 0 %}
+    <a href="{{ url_for('mark_watched', item_id=item.id ) }}">
 <img class="poster" src="{{ item.poster_url }}">
     <p>{{item.movie}} ({{item.year}})</p></a>
 {% else %}

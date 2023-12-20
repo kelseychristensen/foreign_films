@@ -1,4 +1,4 @@
-movies = {'movie': 'Shoeshine', 'year': '1946', 'oscars_year': '20th', 'tmdb_id': 244687, 'seen': False,
+movies = [{'movie': 'Shoeshine', 'year': '1946', 'oscars_year': '20th', 'tmdb_id': 244687, 'seen': False,
            'poster_url': 'https://www.themoviedb.org/t/p/w440_and_h660_face/sAmNpAnPF2jZCi7Vm5BjQdbJqZB.jpg',
            'present_day_countries': ['Italy'], 'submitting_countries': ['Italy']},
           {'movie': 'Monsieur Vincent', 'year': '1947', 'oscars_year': '21st', 'tmdb_id': 43460, 'seen': False,
@@ -230,4 +230,4 @@ movies = {'movie': 'Shoeshine', 'year': '1946', 'oscars_year': '20th', 'tmdb_id'
           {'movie': 'All Quiet on the Western Front', 'year': '2022', 'oscars_year': '94th', 'tmdb_id': 49046,
            'seen': False,
            'poster_url': 'https://www.themoviedb.org/t/p/w440_and_h660_face/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg',
-           'present_day_countries': ['Germany'], 'submitting_countries': ['Germany']}
+           'present_day_countries': ['Germany'], 'submitting_countries': ['Germany']}]

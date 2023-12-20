@@ -26,9 +26,7 @@
         <img id="poster" src="{{ movie.poster_url }}">
         <p>{{movie.movie}} ({{movie.year}})</p>
         <form class="guess_form" method="post">
-        <input type="submit" value="Submit"
-               class="btn btn-secondary"
-               href="{{ url_for('mark_watched', item_id=item_id) }}">
+        <input type="submit" value="Submit" class="btn btn-secondary" href="{{ url_for('mark_watched', item_id=movie.id) }}">
         </form>
   </div>
 </div>

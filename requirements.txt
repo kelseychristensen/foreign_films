@@ -17,7 +17,6 @@ pytz==2023.3.post1
 requests==2.31.0
 six==1.16.0
 SQLAlchemy==2.0.23
-typing_extensions==4.8.0
 tzdata==2023.3
 urllib3==2.1.0
 visitor==0.1.3
